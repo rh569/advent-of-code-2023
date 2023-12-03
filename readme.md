@@ -9,3 +9,7 @@ Attempting this year with rust
 Read through the first day of 'Comprehensive Rust' and jumped straight into sliding windows of strings... so a much harder opener than other years - punishing several naive approaches that would normally slide for a few days.
 
 Final code is not pretty, with some gross labelled loop...break blocks.
+
+**--- Day 2: Cube Conundrum ---**
+
+Used today's puzzles to try out some of the functional features of iterators and am fairly happy with the result. The top-level funcitons are nice and readable. The inner workings of the input parsing: less so.
