@@ -17,3 +17,7 @@ Used today's puzzles to try out some of the functional features of iterators and
 **--- Day 3: Gear Ratios ---**
 
 Enjoyed day 3, but didn't get to it until the 4th. Solution is fairly clean, but didn't get a huge amount of reuse between parts 1 and 2.
+
+**--- Day 4: Scratchcards ---**
+
+Lots of parsing again today - tackled it in one functional chain which wasn't very pretty. Might reach for regexp next time there's something similatr. Part 2 sounded like it was drifting towards some nasty recursion, but with the given limits was fairly straightworward.
