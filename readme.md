@@ -13,3 +13,7 @@ Final code is not pretty, with some gross labelled loop...break blocks.
 **--- Day 2: Cube Conundrum ---**
 
 Used today's puzzles to try out some of the functional features of iterators and am fairly happy with the result. The top-level funcitons are nice and readable. The inner workings of the input parsing: less so.
+
+**--- Day 3: Gear Ratios ---**
+
+Enjoyed day 3, but didn't get to it until the 4th. Solution is fairly clean, but didn't get a huge amount of reuse between parts 1 and 2.
