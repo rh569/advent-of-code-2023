@@ -31,3 +31,7 @@ Once I stopped trying to store billions of ints in a HashMap, part 1 suddenly be
 Got up a bit earlier for today. Could have been a lot faster by not bothering to parse the input, but did so anyway in the interests of keeping the inputs secret and being a bit too purist...
 
 Realised while doing part 2 that the twist was 64-bit ints and enjoyed barrelling and just changing some u32s to u64s. I imagine there's a more elegant maths solution as well.
+
+**--- Day 7: Camel Cards ---**
+
+A lot of upfront logic in building the Hand struct and determining HandType derivation. Learnt a bit about `#[derive ... ]` for the enum and writing a custom `PartialOrd` function for the ranking. I vey much shoehorned in part 2 by passing a flag all the way through to the core logic but it worked well.
