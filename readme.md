@@ -24,7 +24,7 @@ Lots of parsing again today - tackled it in one functional chain which wasn't ve
 
 **--- Day 5: If You Give A Seed A Fertilizer ---**
 
-Started yesterday but haven't finished either part yet.
+Once I stopped trying to store billions of ints in a HashMap, part 1 suddenly became very doable... funny that. The rust compiler is doing all of the heavy lifting for me in part 2. My solution is just a brute force through all seeds. Unoptimised builds wouldn't even churn through the 1st range, but optimised did the whole thing in ~2 minutes. I think I figured out the nicer approach to take, but won't refactor it unless I catch back up with the other days.
 
 **--- Day 6: Wait For It ---**
 
