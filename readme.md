@@ -40,7 +40,7 @@ A lot of upfront logic in building the Hand struct and determining HandType deri
 
 **--- Day 8: Haunted Wasteland ---**
 
-TODO
+Nice and easy first part with HashMap. Then let an optimised brute force for part 2 run for fun while trying to prove that the sequences looped nicely and implementing LCM (via GCD with the Euclidean algorithm which I definitely did not remember). It got ~0.02% there.
 
 **--- Day 9: Mirage Maintenance ---**
 
