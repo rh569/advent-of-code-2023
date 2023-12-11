@@ -49,3 +49,7 @@ TODO
 **--- Day 10: Pipe Maze ---**
 
 Could have done part 1 a fair bit faster, but ended up fighting a bunch of spaghetti code that couldn't decide if it was using positional offsets or directional enums - made more complicated by a dodgy application of a Tile enum. Came back to part 2 in the afternoon with a fairly good idea of what the heuristic for an enclosed tile would be. Spent a long time debugging why the new example wouldn't even get through the part 1 solver before realising the input wasn't square...
+
+**--- Day 11: Cosmic Expansion ---**
+
+Thought today was going to be based on cellular automata at first; still enjoyed both parts. The part 2 solution evaded me due to a calculation error with how I was expanding the space. Tidied up and DRYed out before pushing.
