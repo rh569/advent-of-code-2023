@@ -53,3 +53,8 @@ Could have done part 1 a fair bit faster, but ended up fighting a bunch of spagh
 **--- Day 11: Cosmic Expansion ---**
 
 Thought today was going to be based on cellular automata at first; still enjoyed both parts. The part 2 solution evaded me due to a calculation error with how I was expanding the space. Tidied up and DRYed out before pushing.
+
+**--- Day 12: Hot Springs ---**
+
+Only done part 1 so far. Solution is well organised and fairly readable, but unoptimised both in terms of generating permutations that are trivially invalid and by doing a lot of Vec cloning where I imagine proper knowledge of Rust would point to a better approach.
+Will have to think on how to reduce part 2, given that for some of the more unknown records, the number of permutations is just absurdly large (~2^79).
