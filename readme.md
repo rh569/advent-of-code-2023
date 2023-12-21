@@ -58,3 +58,9 @@ Thought today was going to be based on cellular automata at first; still enjoyed
 
 Only done part 1 so far. Solution is well organised and fairly readable, but unoptimised both in terms of generating permutations that are trivially invalid and by doing a lot of Vec cloning where I imagine proper knowledge of Rust would point to a better approach.
 Will have to think on how to reduce part 2, given that for some of the more unknown records, the number of permutations is just absurdly large (~2^79).
+
+**--- Day 13: Point of Incidence ---**
+
+This solution isn't very pretty, lots of duplication and a fairly gross bit of logic in part 2 to determine whether the lines of reflection are new or old, instead of just having the initial results to compare against. Learnt a bit about Result<T, Err>. Also the reflection finding is pretty naive - likely a better way to do this.
+
+I had mostly caught up by the 13th, but quickly fell even further behind. Time to try and catch up a bit...
