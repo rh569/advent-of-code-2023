@@ -64,3 +64,7 @@ Will have to think on how to reduce part 2, given that for some of the more unkn
 This solution isn't very pretty, lots of duplication and a fairly gross bit of logic in part 2 to determine whether the lines of reflection are new or old, instead of just having the initial results to compare against. Learnt a bit about Result<T, Err>. Also the reflection finding is pretty naive - likely a better way to do this.
 
 I had mostly caught up by the 13th, but quickly fell even further behind. Time to try and catch up a bit...
+
+**--- Day 14: Parabolic Reflector Dish ---**
+
+Enjoyed this one, not too difficult a concept, so just had to go through the motions of being able to 'roll' in each direction. Kept track of seen states for the loop detection needed for part 2 using strings of the entire state which is not going to be space efficient, but hey.
