@@ -72,3 +72,9 @@ Enjoyed this one, not too difficult a concept, so just had to go through the mot
 **--- Day 15: Lens Library ---**
 
 One of my favourites so far. Nothing too taxing, bar a very in-depth problem, but I enjoyed the story and kept a fairly clean implementation. Is it bad that I didn't use a HashMap? 😄
+
+**--- Day 16: The Floor Will Be Lava ---**
+
+This felt a bit like mapping the cube from last year, but not quite as bad. Lots of manually setting up mappings from beam directions and tile types to new beam directions. Thankfully had considered looping beams pretty early on. Nothing fancy for part 2, just tried each entry point. As each tile & beam direction combo is completely deterministic, it *should* be possible to memoise matching parts of beam paths from different entry points.
+
+Managed 8 stars today (23rd), not too bad.
