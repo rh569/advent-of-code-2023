@@ -44,7 +44,7 @@ Nice and easy first part with HashMap. Then let an optimised brute force for par
 
 **--- Day 9: Mirage Maintenance ---**
 
-TODO
+Pretty simple one for day 09. Repeatedly called a small function to reduce the sequences to zeroes, and picked up on summing the final elements for part 1 quickly. I don't have an intuitive understanding for why alternately adding and subtracting works for part 2 - found it by quick trial and error.
 
 **--- Day 10: Pipe Maze ---**
 
