@@ -68,3 +68,7 @@ I had mostly caught up by the 13th, but quickly fell even further behind. Time t
 **--- Day 14: Parabolic Reflector Dish ---**
 
 Enjoyed this one, not too difficult a concept, so just had to go through the motions of being able to 'roll' in each direction. Kept track of seen states for the loop detection needed for part 2 using strings of the entire state which is not going to be space efficient, but hey.
+
+**--- Day 15: Lens Library ---**
+
+One of my favourites so far. Nothing too taxing, bar a very in-depth problem, but I enjoyed the story and kept a fairly clean implementation. Is it bad that I didn't use a HashMap? 😄
